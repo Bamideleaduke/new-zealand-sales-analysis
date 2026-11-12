@@ -1,6 +1,13 @@
 ## Dashboard Preview
 
-![New Zealand Sales Dashboard](images/sales-dashboard.png)
+### Workforce Overview
+![Workforce Overview](images/workforce-overview.png)
+
+### Employee Attrition
+![Attrition Overview](images/attrition-overview.png)
+
+### Detailed Attrition Analysis
+![Attrition Details](images/attrition-details.png)
 
 **HR Analytics & Employee Attrition Analysis**
 **Project Overview**
